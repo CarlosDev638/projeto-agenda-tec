@@ -1,2 +1,2 @@
-# projeto-agenda-tec
-projeto tcc
+# agendatec
+TCC
